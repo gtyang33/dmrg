@@ -1,0 +1,11 @@
+scipy.linalg.det()函数计算方阵的行列式：
+scipy.linalg.inv()`函数计算方阵的逆：
+scipy.sparse离散矩阵用于矩阵元多为0的矩阵
+namedtuple是一个函数，它用来创建一个自定义的tuple对象，并且规定了tuple元素的个数，并可以用属性而不是索引来引用tuple的某个元素。
+kron 函数用于矩阵的克罗内克积
+matrix.conjugate().transpose()表示矩阵的厄密
+from scipy.sparse.linalg import eigsh用于求解矩阵的本征值和本征向量
+zip函数用于构造元组
+list.append()向列表中插入元素
+list.sort()排序
+enumerate()函数遍历序列中的元素和其对应的下标
